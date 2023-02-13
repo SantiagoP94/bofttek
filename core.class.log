@@ -1,0 +1,315 @@
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A88C2B2627C339855E3',
+    participant: undefined
+  },
+  messageTimestamp: 1676296328,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A888F6347ED581134B0',
+    participant: undefined
+  },
+  messageTimestamp: 1676296337,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: 'impresoras',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'impresoras',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A3C39974C3CCF7E879E',
+    participant: undefined
+  },
+  messageTimestamp: 1676296343,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    conversation: '2',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '2',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A81FA7C1E52D3787E3A',
+    participant: undefined
+  },
+  messageTimestamp: 1676296355,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    conversation: '3',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '3',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A969D54D98B1D79DD7A',
+    participant: undefined
+  },
+  messageTimestamp: 1676296388,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    conversation: 'Juan@',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Juan@',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A7C55AE04F16CBAAD0E',
+    participant: undefined
+  },
+  messageTimestamp: 1676296394,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A09A867E85E94EAD57C',
+    participant: undefined
+  },
+  messageTimestamp: 1676296398,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: 'google drive',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'google drive',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2264984D618FD8EDC9',
+    participant: undefined
+  },
+  messageTimestamp: 1676296410,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-0',
+      selectedDisplayText: '1. Reset Password',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: '1. Reset Password',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A9F544CBFA260EFB8FF',
+    participant: undefined
+  },
+  messageTimestamp: 1676296439,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    conversation: 'Juan',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Juan',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A55A0A9BBD43EF2A6F8',
+    participant: undefined
+  },
+  messageTimestamp: 1676296443,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A2267B9A02D31B3CFC4',
+    participant: undefined
+  },
+  messageTimestamp: 1676296541,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: 'google drive',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'google drive',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3AC92213CA2545CC5830',
+    participant: undefined
+  },
+  messageTimestamp: 1676296552,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-1',
+      selectedDisplayText: '2. No aparece unidad G:',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: '2. No aparece unidad G:',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3AEB0E706A559FDE53C7',
+    participant: undefined
+  },
+  messageTimestamp: 1676296581,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    conversation: 'Hola',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: 'Hola',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3AD1ECAB7EFE7D09A96A',
+    participant: undefined
+  },
+  messageTimestamp: 1676296585,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    },
+    buttonsResponseMessage: ButtonsResponseMessage {
+      selectedButtonId: 'id-btn-3',
+      selectedDisplayText: 'solicitud software',
+      contextInfo: [ContextInfo],
+      type: 1
+    }
+  },
+  body: 'solicitud software',
+  from: '573134157384'
+}
+[handleMsg]:  {
+  key: {
+    remoteJid: '573134157384@s.whatsapp.net',
+    fromMe: false,
+    id: '3A5E3F108DAE7C89123B',
+    participant: undefined
+  },
+  messageTimestamp: 1676296595,
+  pushName: 'Juan Vergara 🇨🇴🇧🇷',
+  message: Message {
+    conversation: '1',
+    messageContextInfo: MessageContextInfo {
+      deviceListMetadata: [DeviceListMetadata],
+      deviceListMetadataVersion: 2
+    }
+  },
+  body: '1',
+  from: '573134157384'
+}
